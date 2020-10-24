@@ -1,5 +1,5 @@
 # Google Developer Products
-My exploration about a Google Developers Product
+My exploration about Google Developers Products
 
 Nama: Nur Muhammad Ainul Yaqin <br/>
 Institusi: Institut Teknologi Sepuluh Nopember <br/>

@@ -1,4 +1,4 @@
-# Google Developer Products: Web
+# Google Developer Products
 My exploration about a Google Developers Product
 
 Nama: Nur Muhammad Ainul Yaqin <br/>
